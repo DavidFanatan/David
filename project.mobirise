@@ -48,24 +48,13 @@
     "screenshot": "screenshot.png",
     "imageResize": true,
     "favicon": "@PROJECT_PATH@/assets/images/unnamed-88x88_1.png",
-    "mbrsiteDomain": "dxwwcgauhu",
+    "mbrsiteDomain": "51nao6rndw",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
     "siteUrl": false,
-    "cookiesAlert": {
-      "customDialogSelector": false,
-      "colorText": "#424a4d",
-      "colorBg": "#eaeff1",
-      "colorButton": "",
-      "colorLink": "#424a4d",
-      "underlineLink": true,
-      "opacity": "17",
-      "opacityOverlay": "80",
-      "text": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
-      "textButton": "Agree"
-    },
-    "gdpr": false
+    "gdpr": false,
+    "cookiesAlert": false
   },
   "pages": {
     "index.html": {
