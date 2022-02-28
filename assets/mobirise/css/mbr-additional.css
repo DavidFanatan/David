@@ -1024,12 +1024,22 @@ a {
     left: -1rem;
   }
 }
-.cid-sNv9f5DN4a {
-  background-image: url("../../../assets/images/pagina-4-1920x1000.png");
+.cid-sYKS65hscR {
+  padding-top: 9rem;
+  padding-bottom: 9rem;
+  background-image: url("../../../assets/images/untitled-3-2000x419.png");
 }
-.cid-sNv9f5DN4a .mbr-section-title {
-  color: #f0fa3c;
-  text-align: center;
+.cid-sYKS65hscR .mbr-text,
+.cid-sYKS65hscR .mbr-section-btn {
+  color: #232323;
+}
+.cid-sYKS65hscR .card-title,
+.cid-sYKS65hscR .card-box {
+  color: #ffffff;
+}
+.cid-sYKS65hscR .mbr-text,
+.cid-sYKS65hscR .link-wrap {
+  color: #ffffff;
 }
 .cid-sNx59HUjiX {
   padding-top: 6rem;
